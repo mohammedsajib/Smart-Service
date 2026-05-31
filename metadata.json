@@ -1,0 +1,6 @@
+{
+  "name": "Lalmonirhat Smart Service",
+  "description": "Premium offline-capable directory & smart citizen portal for Lalmonirhat, Bangladesh, featuring emergency, travel, transport, civil services, and user interaction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
